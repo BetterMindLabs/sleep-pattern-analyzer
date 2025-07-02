@@ -1,0 +1,5 @@
+date,sleep_duration,bed_time,wake_time,interruptions,sleep_quality
+2024-06-01,7.5,23:00,06:30,1,good
+2024-06-02,5.0,00:30,05:30,3,poor
+2024-06-03,8.0,22:45,06:45,0,good
+2024-06-04,6.0,01:00,07:00,2,poor
